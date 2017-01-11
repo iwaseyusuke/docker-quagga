@@ -1,6 +1,6 @@
 # docker-quagga
 
-The Alpine based Docker image for Quagga(http://www.nongnu.org/quagga/)
+The Docker image for Quagga(http://www.nongnu.org/quagga/)
 
 
 ## Docker Pull Command
